@@ -1,9 +1,9 @@
-#openAI Chrome Extension 
+# openAI Chrome Extension 
 
-##Description 
+## Description 
 a chrome extension that allows you to ask openAI questions and renders its response all in a pop-up box
 
-##Instructions to run locally 
+## Instructions to run locally 
 - clone this repository
 - get your api key from https://platform.openai.com/account/api-keys
 - paste your api key /src/App.js where it says {paste you api key here}
@@ -13,7 +13,7 @@ a chrome extension that allows you to ask openAI questions and renders its respo
 - pin the extension 
 - HAVE FUN!! 
 
-##Comments 
+## Comments 
 - If anyone wants to improve the UI and contribute to the project, please feel free to issue a pull request 
 
 

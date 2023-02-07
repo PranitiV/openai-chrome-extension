@@ -7,7 +7,8 @@ a chrome extension that allows you to ask openAI questions and renders its respo
 - clone this repository
 - get your api key from https://platform.openai.com/account/api-keys
 - paste your api key /src/App.js where it says {paste you api key here}
-- run ``` 
+- run 
+  ``` 
   npm build 
   ``` 
   in the respective directory 
